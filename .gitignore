@@ -11,3 +11,5 @@ dist
 /Csharp/ParallelAndNarrowChange/obj/Debug/net8.0
 /Csharp/ParallelAndNarrowChange/obj
 /.vs/3rdKata-2/v17
+/.vs
+/Csharp/.vs/ProjectEvaluation
