@@ -7,3 +7,7 @@ __pycache__
 vendor
 node_modules
 dist
+/Csharp/.vs/ParallelAndNarrowChange
+/Csharp/ParallelAndNarrowChange/obj/Debug/net8.0
+/Csharp/ParallelAndNarrowChange/obj
+/.vs/3rdKata-2/v17
